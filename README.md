@@ -15,13 +15,13 @@ This course has two parts, slides and excercises. The slides describe the exceri
 * branch - `lesson-1`
 
 In this lesson you'll be creating a simple GraphQL server using Apollo Server. 
-- [ ] install dependencies with yarn (prefered for version locking) or npm
-- [ ] create a schema with at least one Type
+- [x] install dependencies with yarn (prefered for version locking) or npm
+- [x] create a schema with at least one Type
 - [ ] create a query from that Type
 - [ ] create a mutation for that Type
 - [ ] create mock resolvers for query and mutation
-- [ ] start the server
-- [ ] using GraphQL playground, perform query and mutation
+- [x] start the server
+- [x] using GraphQL playground, perform query and mutation
 
 ### Creating Schema with SDL
 * branch - `lesson-2`
